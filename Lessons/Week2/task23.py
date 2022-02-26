@@ -1,0 +1,6 @@
+l1 = int(input())
+r1 = int(input())
+l2 = int(input())
+r2 = int(input())
+l3 = int(input())
+r3 = int(input())
