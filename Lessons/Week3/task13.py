@@ -16,7 +16,7 @@ elif a != 0 and b != 0 and e != 0 and c / a == d / b != f / e:
 elif c != 0 and d != 0 and f != 0 and a / c == b / d != e / f:
     print(0)
 elif a == 0 and c == 0:
-
+    pass
 
 k = (b * c - a * d)
 x = (b * f - d * e) / k
